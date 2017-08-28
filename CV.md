@@ -78,6 +78,17 @@ Alicea, B.  [Broad-Spectrum Mitigation and the Cognitive Neurobiological Interfa
  
 [Hard-to-Define-Events (HTDE) 2012](http://syntheticdaisies.blogspot.com/p/htde-workshop-2012.html). Held in conjunction with [Artificial Life 13](http://alife.org/conference/alife-13), East Lansing, MI.
 
+## Figures, Infographics, and Code Releases.
+
+2017:
+
+[Jupyter Notebooks from the DevoWorm Project](https://search.datacite.org/works/10.6084/M9.FIGSHARE.4667848). Github Release, Figshare, doi:10.6084/m9.figshare.4667848.
+ 
+2016:
+[_Ciona intestinalis_ Embryonic Differentiation Tree (1- to 112-cell stage)](https://figshare.com/articles/C_intestinalis_Embryonic_Differentiation_Tree_1_to_112_cell_stage_/2117152). doi: 10.6084/m9.figshare.2117152, 
+
+[_Caenorhabditis elegans_ Embryonic Differentiation Tree (10 division events)](https://figshare.com/articles/C_elegans_Embryonic_Differentiation_Tree_10_division_events_/2118049). doi:10.6084/m9.figshare.2118049.
+
 ## Invited Lectures and Presentations.
 
 2017:
