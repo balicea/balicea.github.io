@@ -1,4 +1,4 @@
-# Bradly Alicea
+# Bradly Alicea, PhD
 
 ![orth](https://user-images.githubusercontent.com/2716218/29792299-9c006dd0-8c05-11e7-9d11-ce67d78ec669.png) [bradly.alicea-at-outlook.com](bradly.alicea@outlook.com)
 
