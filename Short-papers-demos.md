@@ -7,7 +7,7 @@ Alicea, B.	[Data Reuse as a Prisoner's Dilemma: the social capital of open scien
 Alicea, B.  [Playing Games with Ideas: when epistemology pays off](http://beta.briefideas.org/ideas/e4702f43c1c9f3561e57b3ab001a924b). Journal of Brief Ideas, doi:10.5281/zenodo.167647.
 
 2014:<br>
-Alicea, B.  Carnival of Evolution #70: the game of evolution. April 1, Synthetic Daisies Blog, http://syntheticdaisies.blogspot.com/2014/04/carnival-of-evolution-70-game-of.html doi: 10. 6084/m9.figshare.900957.
+Alicea, B.  [Carnival of Evolution #70: the game of evolution](http://syntheticdaisies.blogspot.com/2014/04/carnival-of-evolution-70-game-of.html). April 1, Synthetic Daisies Blog, doi: 10. 6084/m9.figshare.900957.
 
 2013:<br>
 Alicea, B.  [A Semi-automated Peer-review System](https://arxiv.org/abs/1311.2504). arXiv repository, arXiv:1311.2504.
