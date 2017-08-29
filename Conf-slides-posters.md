@@ -1,4 +1,4 @@
-# Slideshows and Posters
+# Conferences, Slideshows, and Posters
 <BR>_Sorted by year_
 
 2017:<BR>
