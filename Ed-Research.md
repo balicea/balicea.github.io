@@ -17,7 +17,6 @@ Projects include DevoWorm, an attempt to model and analyze C. elegans developmen
 ![orth](https://user-images.githubusercontent.com/2716218/29792299-9c006dd0-8c05-11e7-9d11-ce67d78ec669.png)
 
 ### 2009-2014 PhD and Postdoctoral work in Cell/Molecular and Quantitative Biology. Michigan State University.
-<br> 
 **Thesis title: [Reprogramming to the nervous system: a computational and candidate gene approach](https://osf.io/v7dnk/).**
 
 Research on the phenotypic reprogramming of animal cells (e.g. generation of iPSCs, iNCs, and iSMCs) using computational, bioengineering, and molecular techniques. This includes the fundamental properties, cellular mechanisms, and applications of cellular plasticity and artificially-induced neuronal cells (neurons and muscle).
