@@ -1,5 +1,5 @@
 # Popular Press
-<BR>_Ordered by year_
+<BR>_Sorted by year_
 
 2014:<br>
 [Perceptual time and the evolution of informational investment](http://machineslikeus.com/news/perceptual-time-and-evolution-informational-investment). Published in Machines Like Us.
