@@ -4,10 +4,12 @@
 
 ### [Google Summer of Code](https://summerofcode.withgoogle.com/)
 ![gsoc](https://user-images.githubusercontent.com/2716218/29803669-269d7d4c-8c43-11e7-9e68-ca1c3b52aa91.png)
+
 Mentor for the Fellowship Program (Organization Sponsor: [INCF](https://www.incf.org/)), Summer 2017.
 
 ### [SciFund University](https://scifundchallenge.org/scifund-university/)
 ![scifund](https://user-images.githubusercontent.com/2716218/29803690-3e893ca2-8c43-11e7-918a-3f6d82f1b7c2.jpg)
+
 Instructor for "Introduction to Outreach" short course, Fall 2015.
 
 ### [Michigan State University](https://msu.edu/)
