@@ -10,7 +10,7 @@ Mentor for the Fellowship Program (Organization Sponsor: [INCF](https://www.incf
 ### [SciFund University](https://scifundchallenge.org/scifund-university/)
 ![scifund](https://user-images.githubusercontent.com/2716218/29804060-8da8cdd2-8c45-11e7-910f-4ed5477351a1.jpg)
 
-Instructor for "Introduction to Outreach" short course, Fall 2015.
+Instructor for "[Introduction to Outreach](https://scifundchallenge.org/scifund-university/introduction-to-outreach-in-class/)" short course, Fall 2015.
 
 ### [Michigan State University](https://msu.edu/)
 ![msu](https://user-images.githubusercontent.com/2716218/29804049-75e60d5e-8c45-11e7-9b08-b5c6344a5251.png)
