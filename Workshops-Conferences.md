@@ -1,4 +1,4 @@
-# Co-organized Workshops and Conferences.
+# Co-organized Workshops and Conferences
 
 [OpenWorm Open House](http://blog.openworm.org/post/152092412210/announcing-the-openworm-open-house-2016). Cyberspace, October, 2016.
 
