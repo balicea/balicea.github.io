@@ -24,7 +24,7 @@ Research on the phenotypic reprogramming of animal cells (e.g. generation of iPS
 
 ### 2011-2013  Technology commercialization analyst, MSU Technologies, East Lansing, MI. 
 
-![msu-t](https://user-images.githubusercontent.com/2716218/29832318-6a4f0b04-8cad-11e7-8410-86f6af4efbfa.png)
+![msu-t](https://user-images.githubusercontent.com/2716218/29833183-315dd426-8cb0-11e7-86a4-52acfd6fdbe8.png)
 
 Assessment of technological innovations in terms of marketability and start-up potential. Areas of expertise: computational biology, nanotechnology, robotics.
 
