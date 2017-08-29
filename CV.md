@@ -18,6 +18,10 @@ Bradly Alicea has a [MA in Anthropology/Zoology](https://osf.io/sme2y/) from the
 
 ## [Figures, Infographics, and Code Releases](https://github.com/balicea/balicea.github.io/blob/master/Infograph.md)
 
+## [Conferences, Slideshows, and Posters](https://github.com/balicea/balicea.github.io/edit/master/Conf-slides-posters.md)
+
+## [Blog Rolls, Short Papers, and Demos/Tutorials](https://github.com/balicea/balicea.github.io/blob/master/Short-papers-demos.md)
+
 ## [Popular Press](https://github.com/balicea/balicea.github.io/blob/master/Pop-press.md)
 
 ## [Teaching History](https://github.com/balicea/balicea.github.io/blob/master/Teaching-History.md)
