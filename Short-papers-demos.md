@@ -10,15 +10,15 @@ Alicea, B.  [Playing Games with Ideas: when epistemology pays off](http://beta.b
 Alicea, B.  Carnival of Evolution #70: the game of evolution. April 1, Synthetic Daisies Blog, http://syntheticdaisies.blogspot.com/2014/04/carnival-of-evolution-70-game-of.html doi: 10. 6084/m9.figshare.900957.
 
 2013:<br>
-Alicea, B.  A Semi-automated Peer-review System. arXiv repository, arXiv:1311.2504 [cs.DL, cs.HC, cs.SI, physics.soc-ph].
+Alicea, B.  [A Semi-automated Peer-review System](https://arxiv.org/abs/1311.2504). arXiv repository, arXiv:1311.2504.
 
 Alicea, B.  [Game Theory of Shutting Things Down](http://syntheticdaisies.blogspot.com/2013/10/game-theory-of-shutting-things-down.html). October 15, Synthetic Daisies Blog.
 
 Alicea, B.  [Carnival of Evolution #58: Visions of the Evolutionary Future](http://syntheticdaisies.blogspot.com/2013/04/carnival-of-evolution-number-58-vision.html). April 1, Synthetic Daisies Blog.
 
-Alicea, B.	Independent features of quantified thermocycling reactions (qRT-PCR). Figshare, doi:10.6084/m9.figshare.649432.
+Alicea, B.	[Independent features of quantified thermocycling reactions](http://dx.doi.org/10.6084/m9.figshare.649432). Figshare, doi:10.6084/m9.figshare.649432.
 
-Alicea, B.  Genomic Signal Processing: one scientist's quest. Figshare, doi:10.6084/m9.figshare.155705.
+Alicea, B.  [Genomic Signal Processing: one scientist's quest](http://dx.doi.org/10.6084/m9.figshare.155705). Figshare, doi:10.6084/m9.figshare.155705.
 
 2012:<BR>
 Alicea, B.  [Carnival of Evolution #46: the Tree (Structures) of Life](http://syntheticdaisies.blogspot.com/2012/04/carnival-of-evolution-number-46-tree.html). April 1, Synthetic Daisies Blog.
