@@ -124,3 +124,4 @@ Interview with Sujata Gupta, [Virtual windows on brains at work](https://www.aca
  
 Interview with Rachel Nuwer, [Why Scientists are fooling animals with virtual reality](https://www.academia.edu/4137526/Why_Scientists_Are_Fooling_Animals_With_Virtual_Reality). Popular Mechanics, April 10
 
+## [Teaching History](https://github.com/balicea/balicea.github.io/blob/master/Teaching-History.md)
