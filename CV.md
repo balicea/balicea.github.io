@@ -8,7 +8,7 @@
 
 Download the [.pdf](https://independent.academia.edu/BradlyAlicea/CurriculumVitae) version for a full version.
 
-Bradly Alicea has a MA in Anthropology/Zoology from the University of Florida and a PhD in Cognitive Science and Computational Biology from Michigan State University. He has published in multiple academic fields, and in venues including Nature Reviews Neuroscience, Stem Cells and Development, Biosystems, and Proceedings of Artificial Life. With interests spanning the biological, computational, and social sciences, he is currently Head Scientist and Founder of Orthogonal Research and a Senior Contributor at the OpenWorm Foundation. Bradly is also the administrator of Synthetic Daisies blog.
+Bradly Alicea has a MA in Anthropology/Zoology from the University of Florida and a PhD in Cognitive Science and Computational Biology from Michigan State University. He has published in multiple academic fields, and in venues including _Nature Reviews Neuroscience_, _Stem Cells and Development_, _Biosystems_, and _Proceedings of Artificial Life_. With interests spanning the biological, computational, and social sciences, he is currently Head Scientist and Founder of Orthogonal Research and a Senior Contributor at the OpenWorm Foundation. Bradly is also the administrator of Synthetic Daisies blog.
 
 ## Selected Publications and Book Chapters
 
