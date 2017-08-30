@@ -1,4 +1,4 @@
-# Recent Papers, Talks, and Posters
+# Recent Work
 
 June 2017:<br>
 [The Emergent Connectome in _Caenorhabditis elegans_ Embryogenesis](https://doi.org/10.1101/146035). bioRxiv, doi:10.1101/146035.
