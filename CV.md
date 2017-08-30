@@ -10,7 +10,7 @@ Download the [.pdf](https://independent.academia.edu/BradlyAlicea/CurriculumVita
 
 Bradly Alicea has a [MA in Anthropology/Zoology](https://osf.io/sme2y/) from the University of Florida and a [PhD in Cognitive Science and Computational Biology](https://osf.io/v7dnk/) from Michigan State University. He has published in multiple academic fields, and in venues such as _Nature Reviews Neuroscience_, _Stem Cells and Development_, _Biosystems_, and _Proceedings of Artificial Life_. With interests spanning the biological, computational, and social sciences, he is currently Head Scientist and Founder of [Orthogonal Research](https://orthogonal-research.weebly.com/) and a Senior Contributor at the [OpenWorm Foundation](http://www.openworm.org/). Bradly is also the administrator of [Synthetic Daisies](http://syntheticdaisies.blogspot.com/) blog.
 
-## [Recent Papers, Talks, and Posters](https://github.com/balicea/balicea.github.io/blob/master/Recent-work.md)
+## [Recent Work](https://github.com/balicea/balicea.github.io/blob/master/Recent-work.md)
 
 ## [Education and Research Projects](https://github.com/balicea/balicea.github.io/blob/master/Ed-Research.md)
 
