@@ -2,6 +2,8 @@
 <BR>_Sorted by year_
 
 2017:<br>
+DevoWorm Group and Alicea, B. [The Emergent Connectome in _Caenorhabditis elegans_ Embryogenesis](https://doi.org/10.1101/146035). bioRxiv, doi:10.1101/146035.
+
 Alicea, B. [The Long Road to Theoretical Synthesis: Review of “Embryogenesis Explained”](http://www.ijdb.ehu.es/web/paper/170046ba/the-long-road-to-theoretical-synthesis). International Journal of Developmental Biology, 61, 113-114
 
 2016:<br>
