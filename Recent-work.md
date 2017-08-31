@@ -12,7 +12,6 @@ December 2016:<br>
 November 2016:<br>
 [Playing Games with Ideas: when epistemology pays off](http://beta.briefideas.org/ideas/e4702f43c1c9f3561e57b3ab001a924b). Journal of Brief Ideas, doi:10.5281/zenodo.167647
 
-November 2016:<br>
 [Evolution in Eggs and Phases: experimental evolution of fecundity and reproductive timing in _Caenorhabditis elegans_](http://rsos.royalsocietypublishing.org/content/3/11/160496). Royal Society Open Science, 3, 160496. doi:10.1098/rsos.160496.
 
 September 2016:<br>
