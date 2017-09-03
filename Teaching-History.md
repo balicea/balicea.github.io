@@ -10,7 +10,7 @@ Mentor for the Fellowship Program (Organization Sponsor: [INCF](https://www.incf
 ### [Badges, OpenWorm Foundation badge system](https://www.badgelist.com/OpenWorm/)
 ![badge-list-shield-3eba576b15790603145b4f10337801b08835d4d2369556c31dbd0da0d5109535](https://user-images.githubusercontent.com/2716218/30000501-5fe8b4b4-9034-11e7-9db7-49db5b7b92a5.png)
 
-Badge creator: Hackathon [I](https://www.badgelist.com/OpenWorm/Hackathon-I), [II](https://www.badgelist.com/OpenWorm/Hackathon-II), [III](https://www.badgelist.com/OpenWorm/Hackathon-III); Literature Mining [I](https://www.badgelist.com/OpenWorm/Literature-Mining-I-working-with-papers), [II](https://www.badgelist.com/OpenWorm/Literature-Mining-II-working-with-secondary-data).
+Badge (Microcredential) creator: Hackathon [I](https://www.badgelist.com/OpenWorm/Hackathon-I), [II](https://www.badgelist.com/OpenWorm/Hackathon-II), [III](https://www.badgelist.com/OpenWorm/Hackathon-III); Literature Mining [I](https://www.badgelist.com/OpenWorm/Literature-Mining-I-working-with-papers), [II](https://www.badgelist.com/OpenWorm/Literature-Mining-II-working-with-secondary-data).
 
 ### [SciFund University](https://scifundchallenge.org/scifund-university/)
 ![scifund](https://user-images.githubusercontent.com/2716218/29804060-8da8cdd2-8c45-11e7-910f-4ed5477351a1.jpg)
