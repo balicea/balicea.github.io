@@ -7,7 +7,7 @@
 
 Mentor for the Fellowship Program (Organization Sponsor: [INCF](https://www.incf.org/)), Summer 2017.
 
-### [Badges, OpenWorm Foundation badge system](https://www.badgelist.com/OpenWorm/)
+### [Open Badge System, OpenWorm Foundation](https://www.badgelist.com/OpenWorm/)
 ![badge-list-shield-3eba576b15790603145b4f10337801b08835d4d2369556c31dbd0da0d5109535](https://user-images.githubusercontent.com/2716218/30000501-5fe8b4b4-9034-11e7-9db7-49db5b7b92a5.png)
 
 Badge (Microcredential) creator: Hackathon [I](https://www.badgelist.com/OpenWorm/Hackathon-I), [II](https://www.badgelist.com/OpenWorm/Hackathon-II), [III](https://www.badgelist.com/OpenWorm/Hackathon-III); Literature Mining [I](https://www.badgelist.com/OpenWorm/Literature-Mining-I-working-with-papers), [II](https://www.badgelist.com/OpenWorm/Literature-Mining-II-working-with-secondary-data).
