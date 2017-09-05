@@ -1,3 +1,0 @@
-## ghghghghghgh---------------------------
-
-* gagagagogogogogogo
