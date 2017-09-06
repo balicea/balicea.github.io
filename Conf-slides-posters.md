@@ -48,3 +48,24 @@ Alicea, B. Reverse Distributed Computing: doing science experiments in Second Li
 Alicea, B. and Grabowski, L. From Finding Home to Navigational Primitives: using path-integration and tracking technologies to achieve navigational mitigation. Augmented Cognition International, San Francisco, CA. Poster (2006).
 
 Alicea, B. "Virtual" work: the D'Alembert principle and upper-body movement in mixed-reality systems. Dynamic Walking 2006, University of Michigan, Ann Arbor, MI. Poster (2006).
+
+## [CV](https://github.com/balicea/balicea.github.io/blob/master/CV.md)
+
+## [Recent Work](https://github.com/balicea/balicea.github.io/blob/master/Recent-work.md)
+
+## [Education and Research Projects](https://github.com/balicea/balicea.github.io/blob/master/Ed-Research.md)
+
+## [Selected Publications and Book Chapters](https://github.com/balicea/balicea.github.io/blob/master/Selected-Pubs-Chapters.md)
+
+## [Co-organized Workshops and Conferences](https://github.com/balicea/balicea.github.io/blob/master/Workshops-Conferences.md)
+
+## [Invited Lectures and Presentations](https://github.com/balicea/balicea.github.io/blob/master/Invited.md)
+
+## [Figures, Infographics, and Code Releases](https://github.com/balicea/balicea.github.io/blob/master/Infograph.md)
+
+## [Blog Rolls, Short Papers, and Demos/Tutorials](https://github.com/balicea/balicea.github.io/blob/master/Short-papers-demos.md)
+
+## [Popular Press](https://github.com/balicea/balicea.github.io/blob/master/Pop-press.md)
+
+## [Teaching History](https://github.com/balicea/balicea.github.io/blob/master/Teaching-History.md)
+
