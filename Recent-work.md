@@ -16,3 +16,23 @@ November 2016:<br>
 
 September 2016:<br>
 [Morphozoic: cellular automata with nested neighborhoods as a metamorphic representation of morphogenesis](https://www.academia.edu/30534372/Morphozoic_Cellular_Automata_with_Nested_Neighborhoods_as_a_Metamorphic_Representation_of_Morphogenesis). In “Multi-Agent Based Simulations Applied to Biological and Environmental Systems“, Chapter 3.
+
+## [CV](https://github.com/balicea/balicea.github.io/blob/master/CV.md)
+
+## [Education and Research Projects](https://github.com/balicea/balicea.github.io/blob/master/Ed-Research.md)
+
+## [Selected Publications and Book Chapters](https://github.com/balicea/balicea.github.io/blob/master/Selected-Pubs-Chapters.md)
+
+## [Co-organized Workshops and Conferences](https://github.com/balicea/balicea.github.io/blob/master/Workshops-Conferences.md)
+
+## [Invited Lectures and Presentations](https://github.com/balicea/balicea.github.io/blob/master/Invited.md)
+
+## [Figures, Infographics, and Code Releases](https://github.com/balicea/balicea.github.io/blob/master/Infograph.md)
+
+## [Conferences, Slideshows, and Posters](https://github.com/balicea/balicea.github.io/edit/master/Conf-slides-posters.md)
+
+## [Blog Rolls, Short Papers, and Demos/Tutorials](https://github.com/balicea/balicea.github.io/blob/master/Short-papers-demos.md)
+
+## [Popular Press](https://github.com/balicea/balicea.github.io/blob/master/Pop-press.md)
+
+## [Teaching History](https://github.com/balicea/balicea.github.io/blob/master/Teaching-History.md)
