@@ -22,3 +22,23 @@
 
 2012:<BR>
 [Carnival of Evolution #46: the Tree (Structures) of Life](http://syntheticdaisies.blogspot.com/2012/04/carnival-of-evolution-number-46-tree.html). April 1, Synthetic Daisies Blog.
+
+## [CV](https://github.com/balicea/balicea.github.io/blob/master/CV.md)
+
+## [Recent Work](https://github.com/balicea/balicea.github.io/blob/master/Recent-work.md)
+
+## [Education and Research Projects](https://github.com/balicea/balicea.github.io/blob/master/Ed-Research.md)
+
+## [Selected Publications and Book Chapters](https://github.com/balicea/balicea.github.io/blob/master/Selected-Pubs-Chapters.md)
+
+## [Co-organized Workshops and Conferences](https://github.com/balicea/balicea.github.io/blob/master/Workshops-Conferences.md)
+
+## [Invited Lectures and Presentations](https://github.com/balicea/balicea.github.io/blob/master/Invited.md)
+
+## [Figures, Infographics, and Code Releases](https://github.com/balicea/balicea.github.io/blob/master/Infograph.md)
+
+## [Conferences, Slideshows, and Posters](https://github.com/balicea/balicea.github.io/edit/master/Conf-slides-posters.md)
+
+## [Popular Press](https://github.com/balicea/balicea.github.io/blob/master/Pop-press.md)
+
+## [Teaching History](https://github.com/balicea/balicea.github.io/blob/master/Teaching-History.md)
