@@ -33,3 +33,24 @@
 
 2007:<br>
 [Evolving “Physical” Intelligence: physiology, robotics, and computational biology](https://www.academia.edu/1654229/Evolving_Physical_Intelligence_physiology_robotics_and_computational_biology). Evolving Intelligence Research Group, DevoLab, Department of Computer Science, Michigan State University.
+
+## [CV](https://github.com/balicea/balicea.github.io/blob/master/CV.md)
+
+## [Recent Work](https://github.com/balicea/balicea.github.io/blob/master/Recent-work.md)
+
+## [Education and Research Projects](https://github.com/balicea/balicea.github.io/blob/master/Ed-Research.md)
+
+## [Selected Publications and Book Chapters](https://github.com/balicea/balicea.github.io/blob/master/Selected-Pubs-Chapters.md)
+
+## [Co-organized Workshops and Conferences](https://github.com/balicea/balicea.github.io/blob/master/Workshops-Conferences.md)
+
+## [Figures, Infographics, and Code Releases](https://github.com/balicea/balicea.github.io/blob/master/Infograph.md)
+
+## [Conferences, Slideshows, and Posters](https://github.com/balicea/balicea.github.io/edit/master/Conf-slides-posters.md)
+
+## [Blog Rolls, Short Papers, and Demos/Tutorials](https://github.com/balicea/balicea.github.io/blob/master/Short-papers-demos.md)
+
+## [Popular Press](https://github.com/balicea/balicea.github.io/blob/master/Pop-press.md)
+
+## [Teaching History](https://github.com/balicea/balicea.github.io/blob/master/Teaching-History.md)
+
