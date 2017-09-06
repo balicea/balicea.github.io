@@ -49,3 +49,23 @@ Alicea, B.  [Towards a theory of human intraspecific variation for ergonomics an
 
 2006:<br>
 Alicea, B.  [Broad-Spectrum Mitigation and the Cognitive Neurobiological Interface: considering biological rhythms in Augmented Cognition](http://pro.sagepub.com/content/50/16/1629.full.pdf+html). Proceedings of the Human Factors and Ergonomics Society, 50(16), 1629-1633
+
+## [CV](https://github.com/balicea/balicea.github.io/blob/master/CV.md)
+
+## [Recent Work](https://github.com/balicea/balicea.github.io/blob/master/Recent-work.md)
+
+## [Education and Research Projects](https://github.com/balicea/balicea.github.io/blob/master/Ed-Research.md)
+
+## [Co-organized Workshops and Conferences](https://github.com/balicea/balicea.github.io/blob/master/Workshops-Conferences.md)
+
+## [Invited Lectures and Presentations](https://github.com/balicea/balicea.github.io/blob/master/Invited.md)
+
+## [Figures, Infographics, and Code Releases](https://github.com/balicea/balicea.github.io/blob/master/Infograph.md)
+
+## [Conferences, Slideshows, and Posters](https://github.com/balicea/balicea.github.io/edit/master/Conf-slides-posters.md)
+
+## [Blog Rolls, Short Papers, and Demos/Tutorials](https://github.com/balicea/balicea.github.io/blob/master/Short-papers-demos.md)
+
+## [Popular Press](https://github.com/balicea/balicea.github.io/blob/master/Pop-press.md)
+
+## [Teaching History](https://github.com/balicea/balicea.github.io/blob/master/Teaching-History.md)
