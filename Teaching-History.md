@@ -76,3 +76,23 @@ The teaching task was to assist in the instruction of an honors college course (
 ANG 2301: Human Sexuality, Department of Anthropology, University of Florida, Fall 1999 and 2000.
 
 The teaching task was to facilitate discussion and instruction, grade term papers, and develop exam questions for a class of 700 students. Discussion and term paper writing took place in sections of 25-30 students each. In the discussion groups, the degree of student-instructor interaction was moderately high.
+
+## [CV](https://github.com/balicea/balicea.github.io/blob/master/CV.md)
+
+## [Recent Work](https://github.com/balicea/balicea.github.io/blob/master/Recent-work.md)
+
+## [Education and Research Projects](https://github.com/balicea/balicea.github.io/blob/master/Ed-Research.md)
+
+## [Selected Publications and Book Chapters](https://github.com/balicea/balicea.github.io/blob/master/Selected-Pubs-Chapters.md)
+
+## [Co-organized Workshops and Conferences](https://github.com/balicea/balicea.github.io/blob/master/Workshops-Conferences.md)
+
+## [Invited Lectures and Presentations](https://github.com/balicea/balicea.github.io/blob/master/Invited.md)
+
+## [Figures, Infographics, and Code Releases](https://github.com/balicea/balicea.github.io/blob/master/Infograph.md)
+
+## [Conferences, Slideshows, and Posters](https://github.com/balicea/balicea.github.io/edit/master/Conf-slides-posters.md)
+
+## [Blog Rolls, Short Papers, and Demos/Tutorials](https://github.com/balicea/balicea.github.io/blob/master/Short-papers-demos.md)
+
+## [Popular Press](https://github.com/balicea/balicea.github.io/blob/master/Pop-press.md)
