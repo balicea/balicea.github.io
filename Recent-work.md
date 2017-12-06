@@ -1,5 +1,9 @@
 # Recent Work
 
+December 2017:<br>
+[How to find a scientific revolution: intellectual field formation and the analysis of terms](https://psyarxiv.com/rhs9g).
+Psyarxiv, doi:10.17605/OSF.IO/RHS9G.
+
 June 2017:<br>
 [The Emergent Connectome in _Caenorhabditis elegans_ Embryogenesis](https://doi.org/10.1101/146035). bioRxiv, doi:10.1101/146035.
 
