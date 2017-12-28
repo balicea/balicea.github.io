@@ -8,7 +8,7 @@ June 2017:<br>
 [The Emergent Connectome in _Caenorhabditis elegans_ Embryogenesis](https://doi.org/10.1101/146035). bioRxiv, doi:10.1101/146035.
 
 March 2017:<br>
-[The Long Road to Theoretical Synthesis: Review of “Embryogenesis Explained"](http://www.ijdb.ehu.es/web/paper/170046ba/the-long-road-to-theoretical-synthesis). International Journal of Developmental Biology, 61, 113-114.  Paper
+[The Long Road to Theoretical Synthesis: Review of “Embryogenesis Explained"](http://www.ijdb.ehu.es/web/paper/170046ba/the-long-road-to-theoretical-synthesis). International Journal of Developmental Biology, 61, 113-114.
 
 December 2016:<br>
 [Data Reuse as a Prisoner's Dilemma: the social capital of open science](http://doi.org/10.1101/093518). bioRxiv, doi:10.1101/093518.
