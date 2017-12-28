@@ -18,8 +18,6 @@ November 2016:<br>
 
 [Evolution in Eggs and Phases: experimental evolution of fecundity and reproductive timing in _Caenorhabditis elegans_](http://rsos.royalsocietypublishing.org/content/3/11/160496). Royal Society Open Science, 3, 160496. doi:10.1098/rsos.160496.
 
-September 2016:<br>
-[Morphozoic: cellular automata with nested neighborhoods as a metamorphic representation of morphogenesis](https://www.academia.edu/30534372/Morphozoic_Cellular_Automata_with_Nested_Neighborhoods_as_a_Metamorphic_Representation_of_Morphogenesis). In “Multi-Agent Based Simulations Applied to Biological and Environmental Systems“, Chapter 3.
 
 ## [CV](https://github.com/balicea/balicea.github.io/blob/master/CV.md)
 
