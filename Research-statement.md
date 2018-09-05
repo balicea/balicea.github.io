@@ -22,7 +22,6 @@ After the PhD, I began working at the intersection of development, evolution, an
 An example of work from the DevoWorm group -- a heat map of relative birth times for heat map of relative birth times for neuronal cells in the C. elegans nervous system, and their location in the adult phenotype (3-D model of adult worm made in Blender).
 </p>
 
-
 ## Laboratory Structure and Research Plan<br>
 Having worked on a number of independent and collaborative research projects over the past few years has enabled me to establish the [Orthogonal Research Laboratory](https://orthogonal-research.weebly.com/). While currently managed entirely through the use of collaborative tools, the Orthogonal Laboratory infrastructure is ready to implement in a University setting. Orthogonal Lab currently houses collaborative and single investigator-driven research in the areas of data science, cognitive systems, computational cell/molecular biology, and biological theory. In addition, the Orthogonal Laboratory has cultivated external collaborations that provide a source of primary experimental data at a number of biological scales as well as computational expertise. 
 
@@ -32,8 +31,10 @@ Between these resources and on-campus collaborations, Orthogonal Lab will also p
 
 Orthogonal Lab is also defined by an active educational and outreach component. Part of this infrastructure includes the development of a [laboratory contribution philosophy](https://osf.io/7twnu/) to encourage retention of and optimal participation by diverse scientific talent. There will be also be ample opportunities to participate in scientific software development and neuroinformatic data analysis through connections to the [OpenWorm Foundation](http://www.openworm.org/). One overarching theme in the Orthogonal Laboratory is a commitment to Open Science. This includes both a [commitment to transparency](https://orthogonal-research.weebly.com/sci-infrastructure.html) as well as a [digital media presence](https://orthogonal-research.weebly.com/media.html). The former (transparency) is exemplified by the advancement of open science scholarship and practice. The latter (digital media) provides a means to extend our research to a broader audience of potential collaborators, non-traditional funders, and non-scientists. 
 
-![orth-agenda](https://user-images.githubusercontent.com/2716218/45112201-a291fb00-b10c-11e8-9be0-cf68ee12a19f.png)<BR>
+<p align="center">
+  <img width="350" height="350" src="https://user-images.githubusercontent.com/2716218/45112201-a291fb00-b10c-11e8-9be0-cf68ee12a19f.png"><br>
 Near-term agenda for Orthogonal Research Laboratory. Items can be expanded or contracted as opportunities present themselves.
+</p>
 
 In the far future, this research agenda and its underlying funding will be greatly improved by a University presence. Part of this plan for growth involves growing and sustaining the DevoWorm project through local (on-campus) collaborations. Another part of this plan involves establishing linkages between the Orthogonal Lab, the OpenWorm Foundation, and the University community. In its current form, DevoWorm is a distributed, collaborative project. Once it is formally part in an academic laboratory, the DevoWorm group will have a hand in a wider variety of data sources, in addition to having access to more sophisticated primary modes of data collection. The techniques developed for DevoWorm could also be transferred to other emerging projects both within and outside the lab.
 
