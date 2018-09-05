@@ -7,6 +7,10 @@ From a topical perspective, I am broadly interested in development, evolution, c
 
 <img align="center" width="250" height="250" src="https://user-images.githubusercontent.com/2716218/30246382-f6f5aaea-95bd-11e7-9fa3-b7df00c296e0.jpg">
 
+<p align="center">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/2716218/30246382-f6f5aaea-95bd-11e7-9fa3-b7df00c296e0.jpg">
+</p>
+
 Having conducted research in multiple fields before formally earning a PhD, my dissertation research was conducted in the area of Cellular Plasticity and Cellular Reprogramming. As an exemplar of the broad but integrative perspective I bring to scientific research, [“Reprogramming to the Nervous System”](https://osf.io/v7dnk) features empirical studies, computational models, and cross-species comparisons. The research completed for this dissertation involved both innovative molecular techniques and bioinformatics. The associated knowledge has synthesized and advanced understanding in the areas of cellular stemness properties and the cellular reprogramming process as it relates to the derivation of induced pluripotent (iPS), neuronal (iN), and skeletal muscle (iSM) cells. It is this strength in intellectual synthesis coupled with data analysis that marks my rather unique way of approaching empirical problems.
 
 ![reprog-nervous-system](https://user-images.githubusercontent.com/2716218/30246394-51938b84-95be-11e7-975a-0131eacd85f4.png)
