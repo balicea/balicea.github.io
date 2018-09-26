@@ -17,8 +17,7 @@ Having conducted research in multiple fields before formally earning a PhD, my d
 After the PhD, I began working at the intersection of development, evolution, and computational modeling. For the past two years, I have been working with the [OpenWorm Foundation](http://openworm.org) to develop models and data analysis techniques related to _Caenorhabditis elegans_ embryogenesis. This has resulted in the creation of an OpenWorm Foundation subgroup called [DevoWorm](http://devoworm.weebly.com/). As a senior contributor and project organizer, I have gained experience with managing multiple lines of research, mentoring both undergraduates and graduate students, and realizing collaborative visions in the form of tangible scholarship. OpenWorm has provided me with an avenue for both research and pedagogy, as well as a means to develop a research infrastructure in computational biology.
 
 <p align="center">
-  <img width="350" height="350" src="https://user-images.githubusercontent.com/2716218/30246666-386a73b8-95c6-11e7-83e9-2c967b29f6ec.png"><br>
-An example of work from the DevoWorm group -- a heat map of relative birth times for heat map of relative birth times for neuronal cells in the C. elegans nervous system, and their location in the adult phenotype (3-D model of adult worm made in Blender).
+  <img width="211" height="300" src="https://user-images.githubusercontent.com/2716218/46096384-a9001980-c184-11e8-80e1-1ee5dce51744.jpg"><br>
 </p>
 
 ## Laboratory Structure and Research Plan<br>
