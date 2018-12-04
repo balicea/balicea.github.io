@@ -10,22 +10,22 @@ Download the [.pdf](https://independent.academia.edu/BradlyAlicea/CurriculumVita
 
 Bradly Alicea has a [MA in Anthropology/Zoology](https://osf.io/sme2y/) from the University of Florida and a [PhD in Cognitive Science and Computational Biology](https://osf.io/v7dnk/) from Michigan State University. He has published in multiple academic fields, and in venues such as _Nature Reviews Neuroscience_, _Stem Cells and Development_, _Biosystems_, and _Proceedings of Artificial Life_. With interests spanning the biological, computational, and social sciences, he is currently Head Scientist and Founder of [Orthogonal Research](https://orthogonal-research.weebly.com/) and a Senior Contributor at the [OpenWorm Foundation](http://www.openworm.org/). Bradly is also the administrator of [Synthetic Daisies](http://syntheticdaisies.blogspot.com/) blog.
 
-## [Recent Work](https://github.com/balicea/balicea.github.io/blob/master/Recent-work.md)
+## Recent Work
 
-## [Education and Research Projects](https://github.com/balicea/balicea.github.io/blob/master/Ed-Research.md)
+## Education and Research Projects  
 
-## [Selected Publications and Book Chapters](https://github.com/balicea/balicea.github.io/blob/master/Selected-Pubs-Chapters.md)
+## Selected Publications and Book Chapters  
 
-## [Co-organized Workshops and Conferences](https://github.com/balicea/balicea.github.io/blob/master/Workshops-Conferences.md)
+## Co-organized Workshops and Conferences  
 
-## [Invited Lectures and Presentations](https://github.com/balicea/balicea.github.io/blob/master/Invited.md)
+## Invited Lectures and Presentations  
 
-## [Figures, Infographics, and Code Releases](https://github.com/balicea/balicea.github.io/blob/master/Infograph.md)
+## Figures, Infographics, and Code Releases  
 
-## [Conferences, Slideshows, and Posters](https://github.com/balicea/balicea.github.io/edit/master/Conf-slides-posters.md)
+## Conferences, Slideshows, and Posters  
 
-## [Blog Rolls, Short Papers, and Demos/Tutorials](https://github.com/balicea/balicea.github.io/blob/master/Short-papers-demos.md)
+## Blog Rolls, Short Papers, and Demos/Tutorials  
 
-## [Popular Press](https://github.com/balicea/balicea.github.io/blob/master/Pop-press.md)
+## Popular Press  
 
-## [Teaching History](https://github.com/balicea/balicea.github.io/blob/master/Teaching-History.md)
+## Teaching History  
