@@ -30,7 +30,7 @@ Between these resources and on-campus collaborations, Orthogonal Lab will also p
 Orthogonal Lab is also defined by an active educational and outreach component. Part of this infrastructure includes the development of a [laboratory contribution philosophy](https://osf.io/7twnu/) to encourage retention of and optimal participation by diverse scientific talent. There will be also be ample opportunities to participate in scientific software development and neuroinformatic data analysis through connections to the [OpenWorm Foundation](http://www.openworm.org/). One overarching theme in the Orthogonal Laboratory is a commitment to Open Science. This includes both a [commitment to transparency](https://orthogonal-research.weebly.com/sci-infrastructure.html) as well as a [digital media presence](https://orthogonal-research.weebly.com/media.html). The former (transparency) is exemplified by the advancement of open science scholarship and practice. The latter (digital media) provides a means to extend our research to a broader audience of potential collaborators, non-traditional funding sources, and non-scientists.
 
 <p align="center">
-  <img width="450" height="350" src="https://user-images.githubusercontent.com/2716218/65059519-c4d37100-d93b-11e9-8e95-abf4cb5f48ff.png"><br>
+  <img width="550" height="350" src="https://user-images.githubusercontent.com/2716218/65059519-c4d37100-d93b-11e9-8e95-abf4cb5f48ff.png"><br>
 Near-term agenda for Orthogonal Research Laboratory. Items can be expanded or contracted as opportunities present themselves.
 </p>
 
