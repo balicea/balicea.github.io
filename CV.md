@@ -4,7 +4,7 @@
 
 ![owf](https://user-images.githubusercontent.com/2716218/29792323-ace12ea0-8c05-11e7-93e3-c104798e399b.png) [balicea-at-openworm.org](bradly.alicea@openworm.org)
 
-![8263033](https://user-images.githubusercontent.com/2716218/49453307-7daf3180-f7a8-11e8-8024-f2242b46198c.png)
+![8263033](https://user-images.githubusercontent.com/2716218/168873342-3e371df3-94ae-41d3-987b-494990f00569.png)
 
 Download the [.pdf](https://independent.academia.edu/BradlyAlicea/CurriculumVitae) version for a full version.
 
