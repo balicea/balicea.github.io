@@ -4,7 +4,7 @@
 
 ![owf](https://user-images.githubusercontent.com/2716218/29792323-ace12ea0-8c05-11e7-93e3-c104798e399b.png) [balicea-at-openworm.org](bradly.alicea@openworm.org)
 
-<P "align=center">
+<P align="center">
   <img src="https://user-images.githubusercontent.com/2716218/169067508-dd68f4a8-69b4-4a74-9fb5-4c9e53902ec8.png" HEIGHT=700 WIDTH=340>
 </P>
 
